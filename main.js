@@ -1,3 +1,4 @@
+//Look for new @
 const config = require('./conf.js');
 const Twit = require('twit');
 var T = new Twit(config);
